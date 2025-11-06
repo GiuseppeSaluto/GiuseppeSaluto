@@ -9,7 +9,7 @@
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Rust" width="30px" style="padding-right:10px; background-color:#ffffff; border-radius:6px; padding:4px; display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/rust/rust-original.svg" />
+<img align="left" alt="Rust" width="30px" style="padding-right:10px; background-color:ffffff; border-radius:6px; padding:4px; display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/rust/rust-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/docker/docker-plain-wordmark.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/mongodb/mongodb-plain-wordmark.svg" />
 <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/flask/flask-original-wordmark.svg" />
