@@ -9,11 +9,9 @@
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/GiuseppeSaluto/GiuseppeSaluto/main/assets/rust-white-bg.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/docker/docker-plain-wordmark.svg" />
+<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/rust/rust-original.svg" /> <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/docker/docker-plain-wordmark.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/mongodb/mongodb-plain-wordmark.svg" />
-<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/GiuseppeSaluto/GiuseppeSaluto/main/assets/flask-white-bg.svg" />
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
