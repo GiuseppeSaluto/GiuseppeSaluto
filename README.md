@@ -20,8 +20,9 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <div style="clear: both;"></div> <br />
 
+---
 <details>
- <summary><h3>👨‍💻 Giuseppe's Coding Journey</h3></summary>
+  <summary><h3>👨‍💻 Giuseppe's Coding Journey</h3></summary>
   As a Software Developer I am passionate about crafting robust, consistent, and user-centric software solutions that solve real-world problems. My expertise spans both back-end and front-end development, with a strong focus on Python (Flask), and Rust, I also using tools like Docker.
   I am currently expanding my skill set by actively to be a Rustacean 🦀, I have been actively engaged with the Rust Programming Language community, where I am continually enhancing my skills in software development and deepening my understanding of the Rust ecosystem..
   I specialize in building scalable B2B platforms, with skills in API design and much more. My professional journey has been driven by a commitment to continuous learning and a fascination with building efficient, automated, and performant systems.
