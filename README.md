@@ -1,12 +1,12 @@
-# 🦀 Giuseppe Saluto
+🦀 Giuseppe Saluto
 
 **`Software Developer 🧰`**
 
-🛠️ Build! 🔗 Collaborate! ⚙️ Automate!.
+🛠️ Build! 🔗 Collaborate! ⚙️ Automate!
 
 ---
 
-### 🧰 Languages and Tools
+ 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/rust/rust-original.svg" />
@@ -20,7 +20,6 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <div style="clear: both;"></div> <br />
 
-#
 <details>
  <summary><h3>👨‍💻 Giuseppe's Coding Journey</h3></summary>
   As a Software Developer I am passionate about crafting robust, consistent, and user-centric software solutions that solve real-world problems. My expertise spans both back-end and front-end development, with a strong focus on Python (Flask), and Rust, I also using tools like Docker.
