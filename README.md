@@ -1,7 +1,7 @@
 <!-- 🦀 Giuseppe Saluto - GitHub Profile README -->
 
 <p align="center">
-   <img src="assets/CozyCabins.gif" alt="Winter cabin pixel art" width="600"/>
+   <img src="assets/CozyCabins.gif" alt="Winter cabin pixel art" width="200"/>
 </p>
 
 ---
