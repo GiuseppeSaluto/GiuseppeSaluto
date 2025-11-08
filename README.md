@@ -1,7 +1,7 @@
 <!-- 🦀 Giuseppe Saluto - GitHub Profile README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=600&repeat=true&color=00FFFF&lines=Software+Developer+🧰;Building+Robust+%26+Automated+Systems+⚙️;Python+%7C+Rust+%7C+Docker+%7C+Linux" alt="Typing SVG" />
+   <img src="assets/CozyCabins.gif" alt="Winter cabin pixel art" width="600"/>
 </p>
 
 ---
@@ -104,5 +104,3 @@
 When I’m not coding, you’ll probably find me playing video games 🎮, exploring fantasy and sci-fi worlds, or optimizing something that probably didn’t need optimizing 😄  
 
 ---
-
-⭐️ *"🛠️ Build! 🔗 Collaborate! ⚙️ Automate!"*
