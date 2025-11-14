@@ -59,7 +59,7 @@
   - 🦀 Expanding my Rust expertise  
   - ⚙️ Building side projects with Python or Rust  
   - 📚 Exploring system-level programming and backend optimizations  
-  - 🤝 Open to collaborations on open-source projects  
+  - 🤝🏻 Open to collaborations on open-source projects  
 
 </details>
 
