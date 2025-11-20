@@ -89,7 +89,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://mastodon.social/@Giuseppe_Saluto" target="_blank" rel="noreferrer">
+   <a rel="me" href="https://mastodon.social/@Giuseppe_Saluto">Mastodon
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" width="32" height="32" />
   </a>
   &nbsp;&nbsp;&nbsp;
