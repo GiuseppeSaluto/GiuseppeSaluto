@@ -20,10 +20,10 @@
 
 ### 🧭 About Me
 
-💡 I’m a **software developer** with a strong focus on **Python (Flask)** and **Rust**, passionate about designing robust back-end architectures and automated systems.  
+I’m a **software developer** with a strong focus on **Python (Flask)** and **Rust**, passionate about designing robust back-end architectures and automated systems.  
 🦀 I’m currently deepening my journey as a **Rustacean**, actively contributing to projects and exploring the Rust ecosystem.  
-⚙️ I enjoy building **scalable B2B platforms**, designing **RESTful APIs**, and working with tools like **Docker** and **Linux** to automate development workflows.  
-🚀 I believe in continuous learning, clear code, and building solutions that are as elegant as they are efficient.
+I enjoy building **scalable B2B platforms**, designing **RESTful APIs**, and working with tools like **Docker** and **Linux** to automate development workflows.  
+I believe in continuous learning, clear code, and building solutions that are as elegant as they are efficient.
 
 ---
 
@@ -44,7 +44,7 @@
 
 ---
 
-### 🧑‍💻 Coding Journey
+### 🚝​ Coding Journey
 
 <details>
   <summary>📖 Click to read more</summary>
