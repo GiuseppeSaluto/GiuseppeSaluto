@@ -55,10 +55,9 @@ I believe in continuous learning, clear code, and building solutions that are as
   I’m deeply interested in **performance-oriented programming**, **DevOps practices**, and the art of writing **minimal, expressive code**.  
   Every new challenge is an opportunity to learn something new — whether it’s mastering Rust’s ownership model or optimizing containerized deployments with Docker.
 
-  Currently, I’m:
-  - 🦀 Expanding my Rust expertise  
+  Currently, I’m: 
   - ⚙️ Building side projects with Python or Rust  
-  - 📚 Exploring system-level programming and backend optimizations  
+  - 📚 Exploring system-level programming and backend optimizations, testing and DevOps  
   - 🤝🏻 Open to collaborations on open-source projects  
 
 </details>
