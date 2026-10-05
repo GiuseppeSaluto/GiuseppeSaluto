@@ -26,17 +26,6 @@ Python is my main language. **Rust** is what I reach for when a service has to b
 
 ---
 
-### 🚀 Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**MQTT-Telemetry-Lab**](https://github.com/GiuseppeSaluto/MQTT-Telemetry-Lab) | Machine telemetry over MQTT, ingested into a time-series database, with dashboards, KPIs and anomaly detection | Python · Rust · TimescaleDB · Grafana · Docker |
-| [**HarborWatch**](https://github.com/GiuseppeSaluto/HarborWatch) | Live AIS ship data to monitor congestion in the Port of Genoa *(in progress)* | Python · MongoDB Atlas · Streamlit |
-| [**Umbra**](https://github.com/GiuseppeSaluto/Umbra) | Sentinel satellite imagery to map urban heat islands and green areas | Python · Flask · MongoDB geospatial |
-| [**AstroForge**](https://github.com/GiuseppeSaluto/AstroForge) | NASA near-Earth object data, with a Rust risk-analysis engine and a terminal dashboard | Python · Flask · Rust (Axum) · MongoDB · Docker |
-
----
-
 ### 🧰 Languages & Tools
 
 <p align="center">
