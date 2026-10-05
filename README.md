@@ -13,17 +13,27 @@
 </p>
 
 <p align="center">
-  <em>Software Developer passionate about crafting reliable, efficient, and scalable systems that make technology work smarter.</em>
+  <em>Backend developer. I build backends that turn real-world data into something people can use.</em>
 </p>
 
 ---
 
 ### 🧭 About Me
 
-I’m a **software developer** with a strong focus on **Python (Flask)** and **Rust**, passionate about designing robust back-end architectures and automated systems.  
-I’m currently deepening my journey as a **Rustacean**, actively contributing to projects and exploring the Rust ecosystem.  
-I enjoy building **scalable B2B platforms**, designing **RESTful APIs**, and working with tools like **Docker** and **Linux** to automate development workflows.  
-I believe in continuous learning, clear code, and building solutions that are as elegant as they are efficient.
+I'm a **backend developer** with 3 years of experience building **REST APIs** and **B2B platforms** in **Python**.  
+On my own time I keep doing the same thing: I pick a real data source and build the whole pipeline around it, from ingestion to storage to a dashboard, with **Docker**, tests and CI.  
+Python is my main language. **Rust** is what I reach for when a service has to be small and fast.
+
+---
+
+### 🚀 Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**MQTT-Telemetry-Lab**](https://github.com/GiuseppeSaluto/MQTT-Telemetry-Lab) | Machine telemetry over MQTT, ingested into a time-series database, with dashboards, KPIs and anomaly detection | Python · Rust · TimescaleDB · Grafana · Docker |
+| [**HarborWatch**](https://github.com/GiuseppeSaluto/HarborWatch) | Live AIS ship data to monitor congestion in the Port of Genoa *(in progress)* | Python · MongoDB Atlas · Streamlit |
+| [**Umbra**](https://github.com/GiuseppeSaluto/Umbra) | Sentinel satellite imagery to map urban heat islands and green areas | Python · Flask · MongoDB geospatial |
+| [**AstroForge**](https://github.com/GiuseppeSaluto/AstroForge) | NASA near-Earth object data, with a Rust risk-analysis engine and a terminal dashboard | Python · Flask · Rust (Axum) · MongoDB · Docker |
 
 ---
 
@@ -31,36 +41,24 @@ I believe in continuous learning, clear code, and building solutions that are as
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 ---
 
-### 🚝​ Coding Journey
+### 🌱 Currently
 
-<details>
-  <summary>📖 Click to read more</summary>
-
-  My journey into software development started from a fascination with how **automation and clean design** can improve people’s workflows.  
-  Over time, I’ve specialized in building **reliable APIs**, **microservices**, and **scalable systems** — mostly using **Python** and **Rust**.  
-
-  I’m deeply interested in **performance-oriented programming**, **DevOps practices**, and the art of writing **minimal, expressive code**.  
-  Every new challenge is an opportunity to learn something new — whether it’s mastering Rust’s ownership model or optimizing containerized deployments with Docker.
-
-  Currently, I’m: 
-  - ⚙️ Building side projects with Python or Rust  
-  - 📚 Exploring system-level programming and backend optimizations, testing and DevOps  
-  - 🤝🏻 Open to collaborations on open-source projects  
-
-</details>
+- 🏭 Attending a 240-hour course on robotic systems maintenance (PLC, fieldbus, predictive maintenance) to understand the hardware side of industrial IoT
+- 📚 Preparing for the MongoDB Associate Python Developer certification
+- 🦀 Deepening my Rust for backend and system-level work
+- 📍 Based in Modena, Italy, open to relocation and looking for my next team
 
 ---
 
@@ -80,26 +78,22 @@ I believe in continuous learning, clear code, and building solutions that are as
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/GiuseppeSaluto" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/giuseppe-saluto/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
    <a rel="me" href="https://mastodon.social/@Giuseppe_Saluto">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" width="32" height="32" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" width="32" height="32" alt="Mastodon" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:g.saluto15@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="32" height="32" />
+    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="32" height="32" alt="Email" />
   </a>
 </p>
 
 ---
 
 ### ⚡ Fun Fact
-When I’m not coding, you’ll probably find me playing video games 🎮, exploring fantasy and sci-fi worlds, or optimizing something that probably didn’t need optimizing 😄  
+When I'm not coding, you'll probably find me playing video games 🎮, exploring fantasy and sci-fi worlds, or optimizing something that probably didn't need optimizing 😄
 
 ---
