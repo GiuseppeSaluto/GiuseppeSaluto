@@ -46,7 +46,7 @@ Python is my main language. **Rust** is what I reach for when a service has to b
 
 - 🏭 Attending a 240-hour course on robotic systems maintenance (PLC, fieldbus, predictive maintenance) to understand the hardware side of industrial IoT
 - 📚 Preparing for the MongoDB Associate Python Developer certification
-- 🦀 Deepening my Rust for backend and system-level work
+-  Deepening my Rust/Python for backend and system-level work
 - 📍 Based in Modena, Italy, open to relocation and looking for my next team
 
 ---
