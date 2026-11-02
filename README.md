@@ -44,7 +44,7 @@ Python is my main language. **Rust** is what I reach for when a service has to b
 
 ### 🌱 Currently
 
-- Attending a 240-hour course on robotic systems maintenance (PLC, fieldbus, predictive maintenance) to understand the hardware side of industrial IoT
+- Just completed a 240-hour course on robotic systems maintenance (PLC, fieldbus, predictive maintenance) to understand the hardware side of industrial IoT
 - Deepening my Rust/Python for backend and system-level work
 - Learning how to use Elixir ⚗️
 - Based in Modena, Italy, open to relocation and looking for my next team
